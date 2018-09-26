@@ -19,7 +19,7 @@ Created by Stephen Kaplan.
 
 ## Sample data.json
 ** JSON does not support comments, but for the sake of explanation please read all text preceeded by ** as comments
-
+```
 {
 	"name": "My Level",
 	"difficulty": "Easy",
@@ -39,6 +39,7 @@ Created by Stephen Kaplan.
 		"B", "0", "0", "0", "0", "F", "0", "0", "0", "0", "0",		** <0 = Move left, >0 = Move right
 	]
 }										** F (bottom row) = Initial placement of Frogger
+```
 
 
 ## Images
